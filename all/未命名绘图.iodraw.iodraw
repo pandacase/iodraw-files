@@ -34,13 +34,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="1. 点击“开始处理”" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startFill=0;" parent="1" edge="1" source="QICsdeqtaXY-nGN-tzSn-3">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="1. 点击“开始处理”" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="249.99727272727273" as="sourcePoint" />
-            <mxPoint x="330" y="249.99727272727273" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="300" y="250" />
-            </Array>
+            <mxPoint x="140" y="270.0000000000001" as="sourcePoint" />
+            <mxPoint x="275" y="269.99727272727273" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QICsdeqtaXY-nGN-tzSn-2" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
