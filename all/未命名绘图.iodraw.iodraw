@@ -80,13 +80,13 @@
             <mxPoint x="710" y="329.69878787878787" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QICsdeqtaXY-nGN-tzSn-14" value="4. 缓存未命中" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="QICsdeqtaXY-nGN-tzSn-14" value="6. 未下载响应" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QICsdeqtaXY-nGN-tzSn-11" target="aM9ryv3xv72pqoxQDRHE-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="625" y="310" as="sourcePoint" />
+            <mxPoint x="685" y="370" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="600" y="310" />
+              <mxPoint x="660" y="370" />
             </Array>
-            <mxPoint x="510" y="310" as="targetPoint" />
+            <mxPoint x="570" y="370" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
