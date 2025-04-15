@@ -137,15 +137,6 @@
             <mxPoint x="840" y="499.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QICsdeqtaXY-nGN-tzSn-20" value="9. 打包提交算法作业" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="509.9999999999999" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="610" y="510" />
-            </Array>
-            <mxPoint x="885" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
