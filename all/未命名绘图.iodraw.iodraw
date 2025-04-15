@@ -80,7 +80,7 @@
             <mxPoint x="710" y="329.69878787878787" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QICsdeqtaXY-nGN-tzSn-14" value="6. response：未下载" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QICsdeqtaXY-nGN-tzSn-11">
+        <mxCell id="QICsdeqtaXY-nGN-tzSn-14" value="6. 返回结果为未下载" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QICsdeqtaXY-nGN-tzSn-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="359.9999999999999" as="sourcePoint" />
             <Array as="points">
