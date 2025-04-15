@@ -100,13 +100,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QICsdeqtaXY-nGN-tzSn-16" value="3. 查询缓存" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2">
+        <mxCell id="QICsdeqtaXY-nGN-tzSn-16" value="8. request：upload" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="340" y="409.9999999999999" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="420" y="430" />
+              <mxPoint x="420" y="410" />
             </Array>
-            <mxPoint x="490" y="430" as="targetPoint" />
+            <mxPoint x="490" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
