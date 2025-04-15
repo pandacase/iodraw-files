@@ -128,13 +128,13 @@
             <mxPoint x="490" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QICsdeqtaXY-nGN-tzSn-19" value="8. request：实际请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="QICsdeqtaXY-nGN-tzSn-8">
+        <mxCell id="QICsdeqtaXY-nGN-tzSn-19" value="9.&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="509.9999999999999" as="sourcePoint" />
+            <mxPoint x="500" y="499.9999999999999" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="600" y="510" />
+              <mxPoint x="600" y="500" />
             </Array>
-            <mxPoint x="670" y="510" as="targetPoint" />
+            <mxPoint x="840" y="499.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
