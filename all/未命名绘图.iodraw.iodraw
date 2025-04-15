@@ -74,9 +74,9 @@
           <mxGeometry x="640" y="180" width="80" height="370" as="geometry" />
         </mxCell>
         <mxCell id="QICsdeqtaXY-nGN-tzSn-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QICsdeqtaXY-nGN-tzSn-10">
-          <mxGeometry x="45" y="140" width="10" height="50" as="geometry" />
+          <mxGeometry x="35" y="140" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QICsdeqtaXY-nGN-tzSn-13" value="5. 查询图像是否已下载" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="QICsdeqtaXY-nGN-tzSn-13" value="5. 查询图像是否已下载" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="QICsdeqtaXY-nGN-tzSn-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="330" as="sourcePoint" />
             <Array as="points">
@@ -133,13 +133,13 @@
             <mxPoint x="520" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QICsdeqtaXY-nGN-tzSn-19" value="9. 打包提交算法作业" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="QICsdeqtaXY-nGN-tzSn-19" value="9. 打包提交算法作业" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="QICsdeqtaXY-nGN-tzSn-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="489.9999999999999" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="600" y="490" />
             </Array>
-            <mxPoint x="840" y="489.9999999999999" as="targetPoint" />
+            <mxPoint x="740" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QICsdeqtaXY-nGN-tzSn-21" value="10. 返回结果" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-6">
