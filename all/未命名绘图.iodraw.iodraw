@@ -58,7 +58,7 @@
         <mxCell id="QICsdeqtaXY-nGN-tzSn-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QICsdeqtaXY-nGN-tzSn-7">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="QICsdeqtaXY-nGN-tzSn-9" value="2. 查询缓存" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="QICsdeqtaXY-nGN-tzSn-6">
+        <mxCell id="QICsdeqtaXY-nGN-tzSn-9" value="3. 查询缓存" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="QICsdeqtaXY-nGN-tzSn-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="271" as="sourcePoint" />
             <Array as="points">
