@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QICsdeqtaXY-nGN-tzSn-2" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="160" y="190" width="80" height="400" as="geometry" />
+          <mxGeometry x="160" y="180" width="80" height="410" as="geometry" />
         </mxCell>
         <mxCell id="QICsdeqtaXY-nGN-tzSn-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QICsdeqtaXY-nGN-tzSn-2">
           <mxGeometry x="35" y="70" width="10" height="330" as="geometry" />
@@ -124,13 +124,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QICsdeqtaXY-nGN-tzSn-18" value="8. request：实际请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.5;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="QICsdeqtaXY-nGN-tzSn-18" value="8. request：实际请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="469.9999999999999" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="420" y="470" />
             </Array>
-            <mxPoint x="520" y="470" as="targetPoint" />
+            <mxPoint x="390" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QICsdeqtaXY-nGN-tzSn-19" value="9. 打包提交算法作业" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="QICsdeqtaXY-nGN-tzSn-8">
