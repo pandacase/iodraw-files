@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_PUd8gasTiJhexxJmxL7-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;处理结果&lt;br&gt;是否未缓存&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="290" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="198" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_PUd8gasTiJhexxJmxL7-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;打包算法作业并提交到 RTAI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="380" width="120" height="40" as="geometry" />
