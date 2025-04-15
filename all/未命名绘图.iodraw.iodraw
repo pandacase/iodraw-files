@@ -34,7 +34,7 @@
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="350" as="sourcePoint" />
+            <mxPoint x="560" y="350" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="605" y="350" />
             </Array>
