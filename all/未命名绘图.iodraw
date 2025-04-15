@@ -20,18 +20,21 @@
         <mxCell id="GnSR4FQlkLLmYdC_wRxv-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;接收到请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_PUd8gasTiJhexxJmxL7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_PUd8gasTiJhexxJmxL7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_PUd8gasTiJhexxJmxL7-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="225" as="sourcePoint" />
             <mxPoint x="760" y="235" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="220" y="170" />
               <mxPoint x="540" y="170" />
+              <mxPoint x="540" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_PUd8gasTiJhexxJmxL7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_PUd8gasTiJhexxJmxL7-1">
+        <mxCell id="_PUd8gasTiJhexxJmxL7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="420" as="targetPoint" />
+            <mxPoint x="490" y="470" as="sourcePoint" />
+            <mxPoint x="680" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_PUd8gasTiJhexxJmxL7-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;目标图像&lt;br&gt;是否已下载&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -134,12 +137,12 @@
         <mxCell id="_PUd8gasTiJhexxJmxL7-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_PUd8gasTiJhexxJmxL7-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_PUd8gasTiJhexxJmxL7-2">
+        <mxCell id="_PUd8gasTiJhexxJmxL7-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="310" as="sourcePoint" />
-            <mxPoint x="620" y="370" as="targetPoint" />
+            <mxPoint x="704.04" y="350" as="sourcePoint" />
+            <mxPoint x="646" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="388" y="315" />
+              <mxPoint x="414" y="355" />
             </Array>
           </mxGeometry>
         </mxCell>
