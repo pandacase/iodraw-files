@@ -159,11 +159,11 @@
         </mxCell>
         <mxCell id="QICsdeqtaXY-nGN-tzSn-23" value="10. 返回结果" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="550" as="sourcePoint" />
+            <mxPoint x="240" y="550" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="405" y="550" />
+              <mxPoint x="225" y="550" />
             </Array>
-            <mxPoint x="350" y="550" as="targetPoint" />
+            <mxPoint x="210" y="550" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
