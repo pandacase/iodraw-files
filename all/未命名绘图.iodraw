@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_PUd8gasTiJhexxJmxL7-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务器返回结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="565" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_PUd8gasTiJhexxJmxL7-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务器返回错误&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="560" width="120" height="40" as="geometry" />
@@ -103,15 +103,6 @@
         </mxCell>
         <mxCell id="_PUd8gasTiJhexxJmxL7-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="280" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_PUd8gasTiJhexxJmxL7-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_PUd8gasTiJhexxJmxL7-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="710" as="sourcePoint" />
-            <mxPoint x="200" y="660" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="140" y="620" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
