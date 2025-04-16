@@ -37,20 +37,17 @@
         <mxCell id="R71ocueLqxEz32uDw-CD-55" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Axios&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A4rFlD7bSvxa6CVJhbzf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R71ocueLqxEz32uDw-CD-56" target="R71ocueLqxEz32uDw-CD-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R71ocueLqxEz32uDw-CD-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="540" width="180" height="320" as="geometry" />
         </mxCell>
         <mxCell id="R71ocueLqxEz32uDw-CD-57" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Nginx&lt;br&gt;负载均衡层&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-59" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Node.js 后端&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="R71ocueLqxEz32uDw-CD-60" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Redis 缓存层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-62" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Node.js 后端&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R71ocueLqxEz32uDw-CD-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="R71ocueLqxEz32uDw-CD-51" target="R71ocueLqxEz32uDw-CD-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
