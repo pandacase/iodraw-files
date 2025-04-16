@@ -1,79 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HV_D9SYTKDuNdV4OgfWy">
-    <mxGraphModel dx="2058" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3402" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A4rFlD7bSvxa6CVJhbzf-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="40" width="420" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-415" y="729" width="370" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="65" y="729" width="720" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;前端部分&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-285" y="1139" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-46" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;后端响应侧&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1139" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RTAI框架&lt;br&gt;算法运行时&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="895" y="729" width="160" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;后端算法侧&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="920" y="1139" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;文件上传&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-375" y="804" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-52" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;图像处理请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-375" y="919" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结果展示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-375" y="1029" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="R71ocueLqxEz32uDw-CD-51" target="R71ocueLqxEz32uDw-CD-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-55" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Axios&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-195" y="919" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="769" width="240" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-57" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Nginx&lt;br&gt;负载均衡层&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="919" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-60" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Redis 缓存层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="919" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="R71ocueLqxEz32uDw-CD-51" target="R71ocueLqxEz32uDw-CD-55" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-159.99555555555565" y="789" as="sourcePoint" />
-            <mxPoint x="-184.44" y="849" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-225" y="834" />
-              <mxPoint x="-225" y="934" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="R71ocueLqxEz32uDw-CD-52" target="R71ocueLqxEz32uDw-CD-55" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-155" y="879" as="sourcePoint" />
-            <mxPoint x="-105" y="829" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R71ocueLqxEz32uDw-CD-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="R71ocueLqxEz32uDw-CD-55" target="R71ocueLqxEz32uDw-CD-53" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-165" y="1079" as="sourcePoint" />
-            <mxPoint x="-115" y="1029" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-225" y="964" />
-              <mxPoint x="-225" y="1059" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="A4rFlD7bSvxa6CVJhbzf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="120" height="160" as="geometry" />
