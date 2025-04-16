@@ -157,13 +157,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9qNf4FO9-68feI1yLsul-65" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;前端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9qNf4FO9-68feI1yLsul-66" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;后端算法侧&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="530" width="100" height="30" as="geometry" />
+          <mxGeometry x="1025" y="245" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9qNf4FO9-68feI1yLsul-67" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;后端响应侧&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;基于&amp;nbsp;&amp;nbsp;Kubernetes&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="339" y="180" width="150" height="50" as="geometry" />
+          <mxGeometry x="360" y="190" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
